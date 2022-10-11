@@ -1,0 +1,88 @@
+@media (max-width: 700px) {
+    
+br{
+    display: none;
+}
+.heading{
+    height:150vh;
+}
+.overview, .buy {
+    position: absolute;
+    top: -100px;
+
+}
+
+.heading-pic{
+    position: absolute;
+    top: 30%;
+    left:25%;
+}
+
+.heading-text{
+
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    right: 5%;
+    margin-bottom: 10%;
+}
+.heading-text h1{
+    font-size: 26px;
+    
+
+}
+
+.heading-text h4{
+    font-size: 17px;
+    font-weight: 100;
+    
+
+}
+
+.heading-btn button{
+    width: 100%;
+}
+
+.container{
+    display: block;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+}
+
+.container img{
+   
+    margin-top: 10%;
+
+
+ 
+    
+}
+
+
+
+.col-1 {
+    display: none;
+}
+
+
+.row-1{
+    display: block;
+}
+
+.grand-between{
+    height: 100px;
+    width: 100px;
+    margin-left: 45%;
+    margin-right: 40%;
+    margin-bottom: -10%;
+    margin-top: 5%;
+}
+
+
+}
+
+
+
+
+
